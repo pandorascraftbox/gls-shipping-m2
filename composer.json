@@ -30,7 +30,7 @@
         "magento/module-shipping": "^100.4.8",
         "magento/module-store": "^101.1.8",
         "netresearch/config-fields-m2": "^1.3.0",
-        "netresearch/jsonmapper": "^4.0",
+        "netresearch/jsonmapper": "^5.0",
         "netresearch/module-shipping-core": "^4.0.0",
         "netresearch/module-shipping-ui": "^2.6.0",
         "gls-m2-extension/gls-sdk-api-parcel-processing": "^1.0"
