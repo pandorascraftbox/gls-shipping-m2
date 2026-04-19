@@ -1,6 +1,6 @@
 {
     "name": "gls/shipping-m2",
-    "version": "1.5.5",
+    "version": "1.5.5-beta",
     "type": "magento2-module",
     "description": "GLS carrier integration",
     "license": "OSL-3.0",
@@ -33,7 +33,7 @@
         "netresearch/jsonmapper": "^5.0",
         "netresearch/module-shipping-core": "^4.0.0",
         "netresearch/module-shipping-ui": "^2.6.0",
-        "gls-m2-extension/gls-sdk-api-parcel-processing": "^1.0"
+        "gls-m2-extension/sdk-api-parcel-processing": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.0.0",
@@ -44,7 +44,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-GLS-132": "1.2.0.x-dev"
+            "dev-master": "1.5.x-dev"
         }
     }
 }
